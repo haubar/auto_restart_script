@@ -1,4 +1,4 @@
-# auto_restart_script
+# auto restart script
 ---------------------------
 
 ### shell script
